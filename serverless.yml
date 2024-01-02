@@ -23,7 +23,7 @@ provider:
   runtime: nodejs16.x
   region: us-east-1
 
-
+#main unction
 functions:
   bedrock:
     handler: handler.bedrock
