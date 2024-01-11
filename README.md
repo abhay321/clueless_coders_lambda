@@ -1,6 +1,6 @@
 # serverless and aws should be installed in user end
 # invoke locally:- serverless invoke local -f bedrock
-# for deploy:- serverless deploy 
+# for deployment:- serverless deploy 
 
 **Lambda function Input:-**
 ![lambda function input](https://github.com/abhay321/clueless_coders_lambda/assets/15007100/8f3929b1-dac7-4a58-90d7-cd38e3f2ed5f)
